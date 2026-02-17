@@ -1,0 +1,7 @@
+{
+  "name": "Infiniqo Nexus",
+  "description": "A privacy-first, AI-powered networking platform that enables intentional connections at live events through time-bound visibility and intelligent matchmaking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
